@@ -1,1 +1,0 @@
-UPDATE profiles SET ai_settings = NULL;
